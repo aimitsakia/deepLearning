@@ -16,5 +16,5 @@ AUTOENCODER, LSTM
 <h3 align=>Dataset:</h3>
 The Dataset used for this project can be found here: https://www.kaggle.com/function9/blues-genre-midi-melodies
 
-<h3 align=>Installations:</h3>
+<h3 align=>Prerequisites:</h3>
 Installations needed for this project: Python 3.7.10, tensorflow 2.5.0, keras 2.5.0,  music21, numpy, pickle, glob
