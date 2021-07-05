@@ -4,6 +4,8 @@ Music Generation. In this project we wiil try to generate some music.
 
 All the code used for this project is included in the Music Generation.ipynb colab notebook file.
 
+In the MIDI-Selects file, our top selected generated songs can be found.
+
 <h3 align=>How to run:</h3>
 One can either run the cells that have the LSTM tag on them, or the cells with the Autoencoder tags on them, or one can run the whole notebook cell by cell.
 
